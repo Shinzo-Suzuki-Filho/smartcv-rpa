@@ -26,4 +26,4 @@ O **SmartCV Elite** não é apenas um criador de currículos; é uma plataforma 
 3. Escaneie o QR Code com o app **Expo Go** no seu Android ou iOS.
 
 ---
-Desenvolvido com excelência por **Antigravity AI** para **Shinzo Suzuki Filho**.
+Desenvolvido com excelência por **Shinzo Suzuki Filho**.
