@@ -14,7 +14,7 @@ O **SmartCV Elite** não é apenas um criador de currículos; é uma plataforma 
 - **Elite Chat IA**: Um consultor de carreira disponível 24/7 para tirar suas dúvidas e sugerir melhorias.
 
 ### 🛠️ Stacks Tecnológicas
-- **Frontend**: React Native + Expo SDK 51.
+- **Frontend**: React Native + Expo SDK 54.
 - **Estilização**: NativeWind (Tailwind CSS) + Lucide Icons.
 - **Motor de IA**: Google Generative AI (Gemini Pro API).
 - **Banco de Dados**: SQLite (Core) & Prontidão para PostgreSQL.
